@@ -1,0 +1,1 @@
+py ./rr3.py 20 30 < ./file3.txt
