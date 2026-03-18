@@ -1,0 +1,72 @@
+Worker 0 started
+Worker 1 started
+Worker 3 started
+Worker 2 started
+Adding Work
+Worker 0 about to do work
+  Foo called with id 0
+Adding Work
+Worker 3 about to do work
+  Foo called with id 1
+Adding Work
+Worker 2 about to do work
+  Foo called with id 2
+Adding Work
+Worker 0 about to do work
+  Foo called with id 3
+Adding Work
+Worker 1 about to do work
+  Foo called with id 4
+Adding Work
+Worker 0 about to do work
+  Foo called with id 5
+Adding Work
+Worker 0 about to do work
+  Foo called with id 6
+Adding Work
+Worker 1 about to do work
+  Foo called with id 7
+Adding Work
+Worker 0 about to do work
+  Foo called with id 8
+Adding Work
+Adding Work
+Adding Work
+Adding Work
+Adding Work
+Adding Work
+Worker 3 about to do work
+  Foo called with id 9
+Worker 1 about to do work
+  Foo called with id 10
+Worker 0 about to do work
+  Foo called with id 11
+Adding Work
+Adding Work
+Adding Work
+Adding Work
+Adding Work
+Worker 2 about to do work
+  Foo called with id 12
+Worker 2 about to do work
+  Foo called with id 13
+Worker 3 about to do work
+  Foo called with id 14
+Worker 1 about to do work
+  Foo called with id 15
+Worker 0 about to do work
+  Foo called with id 16
+Worker 2 about to do work
+  Foo called with id 17
+Worker 3 about to do work
+  Foo called with id 18
+Worker 0 about to do work
+Adding Work
+Adding Work
+Adding Work
+Adding Work
+  Foo called with id 19
+Worker 1 stopping
+Worker 2 stopping
+Worker 3 stopping
+Worker 0 stopping
